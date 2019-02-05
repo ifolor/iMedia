@@ -1,0 +1,1066 @@
+{
+  "FBAuthWindowCancel": {
+    "MDI": {
+      "de": "Abbrechen",
+      "en": "Cancel",
+      "fr": "Annuler",
+      "it": "Annulla",
+      "sv": "Avbryt",
+      "nb": "Avbryt",
+      "fi": "Kumoa",
+      "nl": "Afbreken",
+      "es": "Cancelar",
+      "da": "Annullér"
+    }
+  },
+  "FBAuthWindowErrorGenericMessage": {
+    "MDI": {
+      "de": "Bitte versuchen Sie es später erneut.",
+      "en": "Please try again later.",
+      "fr": "Veuillez réessayer ultérieurement.",
+      "it": "Riprova più tardi.",
+      "sv": "Pröva på nytt senare",
+      "nb": "Prøv pånytt senere",
+      "fi": "Yritä myöhemmin uudelleen",
+      "nl": "Probeer het later opnieuw.",
+      "es": "Inténtelo de nuevo más tarde.",
+      "da": "Forsøg venligst igen senere."
+    }
+  },
+  "FBAuthWindowErrorIntro": {
+    "MDI": {
+      "de": "Facebook-Authentifizierung nicht möglich",
+      "en": "Facebook authentication not available",
+      "fr": "Authentification Facebook non disponible",
+      "it": "Autenticazione Facebook non eseguibile",
+      "sv": "Logga in-funktionen för Facebook är inte i bruk.",
+      "nb": "Funksjonen logge inn på Facebook er ikke i bruk",
+      "fi": "Facebook-kirjautuminen ei ole käytettävissä",
+      "nl": "Facebook-verificatie niet mogelijk",
+      "es": "No es posible la autenticación en Facebook.",
+      "da": "Facebook autentificering er ikke mulig"
+    }
+  },
+  "FBAuthWindowTitle": {
+    "MDI": {
+      "de": "Facebook-Authentifizierung",
+      "en": "Facebook Authentication",
+      "fr": "Authentification Facebook",
+      "it": "Autenticazione Facebook",
+      "sv": "Logga in på Facebook",
+      "nb": "Logg inn",
+      "fi": "Facebook-kirjautuminen",
+      "nl": "Facebook-verificatie",
+      "es": "Autenticación en Facebook",
+      "da": "Facebook autentificering"
+    }
+  },
+  "IMB.IMBPyramidObjectPromise.PlaceholderMessage1": {
+    "MDI": {
+      "de": "Bild nicht gefunden.\\n",
+      "en": "Processed image not found.\\n",
+      "fr": "Image traitée non trouvée.\\n",
+      "it": "L’immagine elaborata non è stata trovata.\\n",
+      "sv": "Bilden hittades inte.\\n",
+      "nb": "Finner ikke bilde.\\n",
+      "fi": "Kuvaa ei löydy.\\n",
+      "nl": "Bewerkte afbeelding niet gevonden\\n",
+      "es": "Imagen no encontrada.\\n",
+      "da": "Billede ikke undet.\\n"
+    }
+  },
+  "IMB.IMBPyramidObjectPromise.PlaceholderMessage2": {
+    "MDI": {
+      "de": "Bitte starten Sie Lightroom und wählen den Menübefehl:\\nBibliothek > Vorschauen > 1:1-Vorschauen rendern",
+      "en": "Please launch Lightroom and select the menu command\\nLibrary > Previews > Render 1:1 previews",
+      "fr": "Veuillez lancer Lightroom et sélectionner la commande de menu\\nBibliothèque > Aperçus > Rendu des aperçus 1:1.",
+      "it": "Avvia Lightroom e seleziona il comando:\\nBiblioteca > Anteprime > Render anteprime 1:1.",
+      "sv": "Starta Lightroom och välj menypunkten:\\nBibliotek > Förhandsvisning > Skapa 1:1-förhandsvisningar",
+      "nb": "Start Lightroom og velg menykommandoen:\\nBibliotek > Forhåndsvisning > 1:1-Gjengi forhåndsvisning",
+      "fi": "Käynnistä Lightroom ja valitse valikkokomento:\\nKirjasto > Esikatsele > Esikatselun renderointi 1:1-kokoon",
+      "nl": "Start Lightroom en selecteer het menu:\\nBibliotheek > Voorvertoningen > 1:1 voorvertoningen renderen",
+      "es": "Inicie Lightroom y seleccione el comando del menú:\\nBiblioteca > Vista previa > Rendering 1:1 de vistas previas",
+      "da": "Start venligt Lightroom og vælg kommandoen:\\nBibliothek>Forhåndsvisning > 1:1-Render forhåndsvisning"
+    }
+  },
+  "IMB.iPhotoParser.events": {
+    "MDI": {
+      "de": "Ereignisse",
+      "en": "Events",
+      "fr": "Événements",
+      "it": "Eventi",
+      "sv": "Händelser",
+      "nb": "Hendelser",
+      "fi": "Tapahtumat",
+      "nl": "Gebeurtenissen",
+      "es": "Eventos",
+      "da": "Hændelser"
+    }
+  },
+  "IMB.iPhotoParser.faces": {
+    "MDI": {
+      "de": "Gesichter",
+      "en": "Faces",
+      "fr": "Visages",
+      "it": "Volti",
+      "sv": "Ansikten",
+      "nb": "Ansiktene",
+      "fi": "Kasvot",
+      "nl": "Gezichten",
+      "es": "Caras",
+      "da": "Ansigter"
+    }
+  },
+  "IMB.iPhotoParser.photostream": {
+    "MDI": {
+      "de": "Fotostream",
+      "en": "Photo Stream",
+      "fr": "Flux de photos",
+      "it": "Stream foto",
+      "sv": "Bildström",
+      "nb": "Bildestrøm",
+      "fi": "Kuvavirta",
+      "nl": "Fotostream",
+      "es": "Flujo de fotos",
+      "da": "Fotostream"
+    }
+  },
+  "IMBAccessRightsViewController.cancel": {
+    "MDI": {
+      "de": "Abbrechen",
+      "en": "Cancel",
+      "fr": "Annuler",
+      "it": "Annulla",
+      "sv": "Avbryt",
+      "nb": "Avbryt",
+      "fi": "Kumoa",
+      "nl": "Afbreken",
+      "es": "Cancelar",
+      "da": "Annullér"
+    }
+  },
+  "IMBAccessRightsViewController.missingLibraryButton": {
+    "MDI": {
+      "de": "OK",
+      "en": "OK",
+      "fr": "OK",
+      "it": "OK",
+      "sv": "OK",
+      "nb": "OK",
+      "fi": "OK",
+      "nl": "OK",
+      "es": "OK",
+      "da": "OK"
+    }
+  },
+  "IMBAccessRightsViewController.missingLibraryMessage": {
+    "MDI": {
+      "de": "Die %@ Bibliothek kann nicht verwendet werden, da sie nicht gefunden worden konnte. Vielleicht wurde sie gelöscht, verschoben oder umbenannt.",
+      "en": "The %@ library cannot be used because it is missing. It may have been deleted, moved or renamed.",
+      "fr": "La bibliothèque @% ne peut pas être utilisée, car elle n'a pas été trouvée. Elle a dû être effacée, déplacée ou renommée.",
+      "it": "Impossibile utilizzare la biblioteca perché non è stata trovata. Forse è stata eliminata, spostata o rinominata.",
+      "sv": "Biblioteket %@ kan inte användas då det inte gick att hitta. Det kanske har raderats, flyttats eller döpts om.",
+      "nb": "%@-biblioteket kan ikke brukes fordi det ikke kan finnes. Kanskje det har blitt slettet, flyttet eller gitt nytt navn.",
+      "fi": "Kirjastoa %@ ei voi käyttää, sillä sitä ei löytynyt. Se on ehkä poistettu, siirretty tai nimetty uudelleen.",
+      "nl": "De %@ bibliotheek kan niet worden gebruikt, aangezien deze niet kon worden gevonden. Wellicht is de bibliotheek gewist, verschoven of hernoemd.",
+      "es": "La biblioteca %@ no puede utilizarse porque no se ha podido encontrar. Es posible que se haya eliminado, movido o cambiado de nombre.",
+      "da": "%@ biblioteket kan ikke anvendes, da det ikke kunne findes. Måske erdet blevet slettet, flyttet, eller omdøbt."
+    }
+  },
+  "IMBAccessRightsViewController.missingLibraryTitle": {
+    "MDI": {
+      "de": "Bibliothek existiert nicht",
+      "en": "Library is missing",
+      "fr": "La bibliothèque n'existe pas",
+      "it": "Manca la biblioteca",
+      "sv": "Biblioteket finns inte",
+      "nb": "Bibliotek finnes ikke",
+      "fi": "Kirjastoa ei ole olemassa",
+      "nl": "Bibliotheek bestaat niet",
+      "es": "La biblioteca no existe.",
+      "da": "Biblioteket findes ikke."
+    }
+  },
+  "IMBAccessRightsViewController.missingObjectButton": {
+    "MDI": {
+      "de": "OK",
+      "en": "OK",
+      "fr": "OK",
+      "it": "OK",
+      "sv": "OK",
+      "nb": "OK",
+      "fi": "OK",
+      "nl": "OK",
+      "es": "OK",
+      "da": "OK"
+    }
+  },
+  "IMBAccessRightsViewController.missingObjectMessage": {
+    "MDI": {
+      "de": "Die Datei “%@” kann nicht benutzt werden, da sie nicht gefunden worden konnte. Vielleicht wurde sie gelöscht, verschoben oder umbenannt",
+      "en": "The file “%@” cannot be used because it is missing. It may have been deleted, moved or renamed.",
+      "fr": "Le fichier “%@” ne peut pas être utilisé, car il n'a pas été trouvé. Il a dû être effacé, déplacé ou renommé.",
+      "it": "Impossibile utilizzare il file perché non è stato trovato. Forse è stato cancellato, spostato o rinominato.",
+      "sv": "Mediafil “%@” kan inte användas då den inte gick att hitta. Den kanske har raderats, flyttats eller döpts om.",
+      "nb": "Filen “%@” kan ikke brukes fordi den ikke kan finnes. Kanskje den har blitt slettet, flyttet eller gitt nytt navn.",
+      "fi": "Tiedostoa “%@” ei voi käyttää, sillä sitä ei löytynyt. Se on ehkä poistettu, siirretty tai nimetty uudelleen.",
+      "nl": "Het bestand %@ kan niet worden gebruikt, aangezien het niet kon worden gevonden. Wellicht is het gewist, verschoven of hernoemd.",
+      "es": "El archivo “%@” no puede utilizarse porque no se ha podido encontrar. Es posible que se haya eliminado, movido o cambiado de nombre.",
+      "da": "Filen %@ kan ikke anvendes, da den ikke kunne findes. Måsket er den blevet slettet, flyttet eller omdøbt."
+    }
+  },
+  "IMBAccessRightsViewController.missingObjectTitle": {
+    "MDI": {
+      "de": "Datei existiert nicht",
+      "en": "Media file is missing",
+      "fr": "Le fichier média n'existe pas",
+      "it": "Manca il file",
+      "sv": "Mediafil finns inte",
+      "nb": "Filen finnes ikke",
+      "fi": "Tiedostoa ei ole olemassa",
+      "nl": "Bestand bestaat niet",
+      "es": "El archivo no existe.",
+      "da": "Fil eksisterer ikke"
+    }
+  },
+  "IMBAccessRightsViewController.offlineLibraryButton": {
+    "MDI": {
+      "de": "Laden",
+      "en": "Reload",
+      "fr": "Recharger",
+      "it": "Carica",
+      "sv": "Ladda",
+      "nb": "Last",
+      "fi": "Lataa",
+      "nl": "Laden",
+      "es": "Cargando",
+      "da": "Indlæser"
+    }
+  },
+  "IMBAccessRightsViewController.offlineLibraryMessage": {
+    "MDI": {
+      "de": "Die %@ Bibliothek kann nicht verwendet werden, da sie sich auf einer derzeit nicht angeschlossenen Festplatte befindet.\\n\\nSchliessen Sie die Platte “%@” an und klicken Sie auf “Laden”.",
+      "en": "The %@ library cannot be used because it is located on a volume that is currently not mounted.\\n\\nMount the volume “%@” and then click on the “Reload” button.",
+      "fr": "La bibliothèque %@ ne peut pas être utilisée, car elle se trouve sur un disque dur qui n'est pas branché.\\n\\nInstallez le disque dur “%@” et cliquez sur “Recharger”.",
+      "it": "Non si può utilizzare la biblioteca perché non si trova attualmente su un disco fisso collegato.\\n\\nCollegare disco “%@” e cliccare su “Carica”.",
+      "sv": "Biblioteket %@ kan inte användas eftersom det finns på en just nu inte ansluten hårddisk.\\n\\Anslut hårddisken “%@” och klicka på “Ladda”.",
+      "nb": "%@-biblioteket kan ikke brukes, fordi det er plassert på en harddisk som for tiden ikke er tilkoblet.\\n\\nKoble til harddisken “%@” og klikk på “Last”.",
+      "fi": "Kirjastoa %@ ei voi käyttää, sillä se sijaitsee kiintolevyllä, jota ei ole kytketty tietokoneeseen.\\n\\nKytke kiintolevy “%@” ja klikkaa kohtaa “Lataa”.",
+      "nl": "De %@ bibliotheek kan niet worden gebruikt, aangezien deze zich op een harde schijf bevindt die momenteel niet aangesloten is.\\n\\nSluit de schijf “%@” aan en klik op “Laden”.",
+      "es": "La biblioteca %@ no puede utilizarse porque se encuentra en un disco duro no conectado actualmente.\\n\\nConecte el disco “%@” y haga clic en «Cargando».",
+      "da": "%@ biblioteket kan ikke anvendes, da det findes på en harddisk, der p.t. ikke er tilsluttet.\\n\\nTilslut disken “%@“ og klik på “Indlæser“."
+    }
+  },
+  "IMBAccessRightsViewController.offlineLibraryTitle": {
+    "MDI": {
+      "de": "Bibliothek nicht verfügbar",
+      "en": "Library is offline",
+      "fr": "Bibliothèque non disponible",
+      "it": "La biblioteca non è disponibile",
+      "sv": "Biblioteket är inte tillgängligt",
+      "nb": "Biblioteket er ikke tilgjengelig",
+      "fi": "Kirjasto ei ole käytettävissä",
+      "nl": "Bibliotheek niet beschikbaar",
+      "es": "Biblioteca no disponible",
+      "da": "Bibliotek ikke tilgængelig"
+    }
+  },
+  "IMBAccessRightsViewController.offlineObjectButton": {
+    "MDI": {
+      "de": "Laden",
+      "en": "Reload",
+      "fr": "Recharger",
+      "it": "Carica",
+      "sv": "Ladda",
+      "nb": "Last",
+      "fi": "Lataa",
+      "nl": "Laden",
+      "es": "Cargando",
+      "da": "Indlæser"
+    }
+  },
+  "IMBAccessRightsViewController.offlineObjectMessage": {
+    "MDI": {
+      "de": "Die Datei “%@” kann nicht verwendet werden, da sie sich auf einer derzeit nicht angeschlossenen Festplatte befindet.\\n\\nSchliessen Sie die Platte “%@” an und klicken Sie auf “Laden”.",
+      "en": "The file “%@” cannot be used because it is located on a volume that is currently not mounted.\\n\\nMount the volume “%@” and then click on the “Reload” button.",
+      "fr": "Le fichier “%@” ne peut pas être utilisé, car il se trouve sur un disque dur qui n'est pas branché.\\n\\nInstallez le disque dur “%@” et cliquez sur “Recharger”.",
+      "it": "Impossibile utilizzare il file, perché non si trova attualmente su un disco fisso collegato.\\n\\nCollegare il disco “%@” e cliccare su “Carica”.",
+      "sv": "Mediafil “%@” kan inte användas eftersom den finns på en just nu inte ansluten hårddisk.\\n\\Anslut hårddisken “%@” och klicka på “Öppna”.",
+      "nb": "Filen “%@” kan ikke brukes, fordi den er plassert på en harddisk som for tiden ikke er tilkoblet.\\n\\nKoble til harddisken “%@” og klikk på “Last”.",
+      "fi": "Tiedostoa %@ ei voi käyttää, sillä se sijaitsee kiintolevyllä, jota ei ole kytketty tietokoneeseen.\\n\\nKytke kiintolevy “%@” ja klikkaa kohtaa “Lataa”.",
+      "nl": "Het bestand %@ kan niet worden gebruikt, aangezien het zich op een harde schijf bevindt die momenteel niet aangesloten is.\\n\\nSluit de schijf “%@” aan en klik op “Laden”.",
+      "es": "El archivo “%@” no puede utilizarse porque se encuentra en un disco duro no conectado actualmente.\\n\\nConecte el disco “%@” y haga clic en «Cargando».",
+      "da": "Filen “%@“ kan ikke anvendes, da det befinder sig på en harddisk, der p.t. ikke er tilsluttet. \\n\\ntilslut disken “%@“ og klik på “Indlæser“."
+    }
+  },
+  "IMBAccessRightsViewController.offlineObjectTitle": {
+    "MDI": {
+      "de": "Datei nicht verfügbar",
+      "en": "Media file is offline",
+      "fr": "Fichier média non disponible",
+      "it": "File non disponibile",
+      "sv": "Mediafil är inte tillgänglig",
+      "nb": "Filen er ikke tilgjengelig",
+      "fi": "Tiedosto ei ole käytettävissä",
+      "nl": "Bestand niet beschikbaar",
+      "es": "Archivo no disponible",
+      "da": "Fil ikke tilgængelig"
+    }
+  },
+  "IMBAccessRightsViewController.openPanel.description": {
+    "MDI": {
+      "de": "Aufgrund von Sicherheitsfunktionen des Betriebssystems, welche Ihr System vor böswilligen Angriffen schützen, hat der %@ derzeitig keine Zugriffsrechte auf Ihre Mediendateien. Klicken Sie auf “Erlauben” um %@ den Zugriff zu gewähren.",
+      "en": "Due to system security features that protect your data from malicious attacks, %@ does not have the necessary rights to access your media files. To grant %@ access to your media files, click on the “Allow” button.",
+      "fr": "Les dispositifs de sécurité qui visent à protéger vos données contre un usage malveillant font que %@ n'a pas les droits nécessaires pour accéder à vos fichiers médias. Cliquez sur “Autoriser” pour permettre à %@ d'accéder à vos fichiers médias.",
+      "it": "A causa delle funzioni di sicurezza del sistema operativo che protegge il sistema da attacchi dannosi, %@ non ha i diritti necessari per accedere ai file mediali. Per far sì che %@ acceda ai file mediali, cliccare su “Autorizza”.",
+      "sv": "P.g.a. operativsystemets säkerhetsinställningar som skyddar ditt system mot obehörig åtkomst har %@ just nu ingen tillgång till dina mediefiler. Klicka på “Tillåt” för att ge %@ åtkomst.",
+      "nb": "På grunn av sikkerhetsfunksjonerne i operativsystemet, som beskytter systemet ditt mot ondsinnede angrep, har %@ for tiden ingen tilgangsretttigheter til dine mediafiler. Klikk på “Tillat” for å gi %@ tilgang.",
+      "fi": "Käyttöjärjestelmääsi vahingollisilta hyökkäyksiltä suojaavien turvaominaisuuksien johdosta %@ ei voi tällä hetkellä käyttää mediatiedostojasi. Klikkaa kohtaa “Salli\\, jotta %@ voi käyttää kyseisiä tiedostoja.",
+      "nl": "Vanwege veiligheidsfuncties van het besturingssysteem, die uw systeem beschermen tegen kwaadaardige aanvallen, heeft de %@ momenteel geen toegangsrechten voor uw mediabestanden. Klik op “Toestaan” om %@ toegang te verlenen.",
+      "es": "Debido a las funciones de seguridad del sistema operativo, que protegen su sistema de ataques maliciosos, actualmente el %@ no tiene derechos de acceso a sus archivos de medios. Haga clic en «Permitir» para permitir el acceso a %@.",
+      "da": "På grund af operativsystemets sikkerhedsfunktioner, som beskytter dit system mod ondsindede angreb, har %@ ikke adgangsrettigheder til dine mediefiler. Klik på “Tillad“ for at give adgang til %@."
+    }
+  },
+  "IMBAccessRightsViewController.openPanel.message": {
+    "MDI": {
+      "de": "Klicken Sie auf “Erlauben” um den Zugriff auf die Mediendateien zu gewähren.",
+      "en": "Click on the “Allow” button to grant access to your media files.",
+      "fr": "Cliquez sur “Autoriser” pour permettre l'accès à vos fichiers média.",
+      "it": "Cliccare su “Autorizza” per garantire l'accesso ai file mediali.",
+      "sv": "Klicka på “Tillåt” för att ge åtkomst till mediefilerna.",
+      "nb": "Klikk på “Tillat” for å gi tilgang til mediafilene.",
+      "fi": "Klikkaa kohtaa “Salli\\, jotta mediatiedostojen käyttö on mahdollista.",
+      "nl": "Klik op “Toestaan” om toegang tot de mediabestanden te verlenen.",
+      "es": "Haga clic en «Permitir» para permitir el acceso a los archivos de medios.",
+      "da": "Klik på “Tillad“ for at give adgang til mediefilerne."
+    }
+  },
+  "IMBAccessRightsViewController.openPanel.prompt": {
+    "MDI": {
+      "de": "Erlauben",
+      "en": "Allow",
+      "fr": "Autoriser",
+      "it": "Autorizza",
+      "sv": "Tillåt",
+      "nb": "Tillat",
+      "fi": "Salli",
+      "nl": "Toestaan",
+      "es": "Permitir",
+      "da": "Tillad"
+    }
+  },
+  "IMBAccessRightsViewController.openPanel.title": {
+    "MDI": {
+      "de": "Zugriff auf Mediendateien erlauben",
+      "en": "Allow access to media files",
+      "fr": "Autoriser l'accès aux fichiers médias",
+      "it": "Autorizza accesso ai file mediali",
+      "sv": "Tillåt åtkomst till mediefiler",
+      "nb": "Tillat tilgang til mediafiler",
+      "fi": "Salli mediatiedostojen käyttö",
+      "nl": "Toegang tot mediabestanden verlenen",
+      "es": "Permitir el acceso a archivos de medios",
+      "da": "Tillad adgang til mediefiler"
+    }
+  },
+  "IMBAccessRightsViewController.openPanel.titleWithName": {
+    "MDI": {
+      "de": "Zugriff auf %@ erlauben",
+      "en": "Allow access to %@",
+      "fr": "Autoriser l'accès à %@",
+      "it": "Autorizza accesso a %@",
+      "sv": "Tillåt åtkomst till %@",
+      "nb": "Tillat tilgang til %@",
+      "fi": "Salli tiedoston %@ käyttö",
+      "nl": "Toegang tot %@ toestaan",
+      "es": "Permitir el acceso a %@",
+      "da": "Tillad adgang til %@"
+    }
+  },
+  "IMBApertureParser.header.placeholderMessage": {
+    "MDI": {
+      "de": "Die Aperture-Bibliothek kann nicht verwendet werden, da sie nicht gefunden wurde.\\n\\nBitte setzen Sie zunächst in Aperture Einstellungen > Vorschaubilder > “XML für andere Programme bereitstellen” auf “Immer” und führen dann ein “Neu laden” aus.",
+      "en": "The Aperture library cannot be used because it is missing.\\n\\nTry “Reload” after setting Aperture Preferences > Preview > “Share XML with other applications” to “Always”.",
+      "fr": "Impossible d'utiliser la bibliothèque Aperture car elle n'a pas pu être trouvée. “n\\nMerci de commencer par vous rendre dans les paramètres d'Aperture > Miniatures > “Partager le XML avec d'autres applications”, de cliquer sur “Toujours” puis sur “Actualiser”.",
+      "it": "La biblioteca Aperture non può essere usata perché non è stata trovata.\\n\\nImpostare innanzi tutto in Aperture Impostazioni > “Anteprima immagini” > “Disporre XML per altri programmi” su “Sempre” e poi eseguire “Ricaricare”.",
+      "sv": "Aperture-biblioteket kan inte användas eftersom det saknas.\\n\\nGå till Aperture inställningar > Preview > “Share XML with other applications”, sätt denna till “Always” och prova sedan “Reload”.",
+      "nb": "Aperture-biblioteket kan ikke brukes fordi det mangler.\\n\\nPrøv “Les inn på nytt” etter innstilling av Aperture preferanser > Forhåndsvisning > “Del XML med andre programmer” til “Alltid”.",
+      "fi": "Aperture-kirjastoa ei voida käyttää, koska sitä ei löytynyt.\\n\\nValitse “Uudelleenlataus” Aperture-asetusten määrittämisen jälkeen > Esikatselu > “Jaa XML muiden sovellusten kanssa” valitse “Aina”.",
+      "nl": "De Aperture-bibliotheek kan niet worden gebruikt, omdat deze niet werd gevonden.\\n\\nStel eerst in Aperture-instellingen > Afdrukvoorbeelden > “XML voor andere programma's beschikbaar stellen” op “Altijd” en voer dan “Opnieuw laden” uit.",
+      "es": "Vaya a Preferencias de Aperture > Vista previa > Compartir vistas previas con iLife y iWork. Ajuste la opción en Siempre.",
+      "da": "Aperture-biblioteket kan ikke anvendes, da det ikke kunne findes.\\n\\nPrøv at indstille Aperture-indstillingerne > Forhåndsvisningsbilleder > til “Del XML med andre programmer“ på “Altid“ og “Genindlæs” derefter."
+    }
+  },
+  "IMBAppleMediaLibraryParser.Photos.privacyError.placeholderMessage": {
+    "MDI": {
+      "de": "Bitte erlauben Sie den Zugriff auf Ihre Fotos-Bibliothek",
+      "en": "Please allow access to your Photos library",
+      "fr": "Veuillez autoriser l'accès à votre bibliothèque Photos",
+      "it": "Si prega di consentire l'accesso alla tua libreria di foto",
+      "sv": "Vänligen tillåt åtkomst till ditt Photos-bibliotek",
+      "nb": "Gi tilgang til ditt Bilder-bibliotek",
+      "fi": "Ota yhteys valokuvakirjastoon",
+      "nl": "Sta toegang tot uw fotobibliotheek toe",
+      "da": "Tillad adgang til dit fotos bibliotek",
+      "es": "Por favor, permita el acceso a su biblioteca de fotos"
+    }
+  },
+  "IMBAppleMediaLibraryParser.Photos.privacyError.recoveryURLLabel": {
+    "MDI": {
+      "de": "Sicherheitseinstellungen öffnen",
+      "en": "Open Privacy Preferences",
+      "fr": "Préférences sécurité et confidentialité",
+      "it": "Apri le preferenze sulla privacy",
+      "sv": "Öppna Privacy Preferences",
+      "nb": "Åpne personverninnstillinger",
+      "fi": "Avaa Privacy Preferences",
+      "nl": "Open privacyvoorkeuren",
+      "da": "Åbn Privacy Preferences",
+      "es": "Abrir preferencias de privacidad"
+    }
+  },
+  "IMBAppleMediaParser.flagged": {
+    "MDI": {
+      "de": "Markierte Fotos",
+      "en": "Flagged",
+      "fr": "Signalées",
+      "it": "Contrassegnati",
+      "sv": "Flaggade",
+      "nb": "Flagget",
+      "fi": "Liputetut",
+      "nl": "Gemarkeerde foto's",
+      "es": "Fotografías marcadas",
+      "da": "Markerede fotos"
+    }
+  },
+  "IMBFaceObjectViewController.countFormatPlural": {
+    "MDI": {
+      "de": "%d Gesichter",
+      "en": "%d Faces",
+      "fr": "%d Visages",
+      "it": "%d Volti",
+      "sv": "%d Ansikten",
+      "nb": "%d Ansiktene",
+      "fi": "%d Kasvot",
+      "nl": "%d gezichten",
+      "es": "%d caras",
+      "da": "%d ansigter"
+    }
+  },
+  "IMBFaceObjectViewController.countFormatSingular": {
+    "MDI": {
+      "de": "%d Gesicht",
+      "en": "%d Face",
+      "fr": "%d Visage",
+      "it": "%d Volto",
+      "sv": "%d Ansiktet",
+      "nb": "%d Ansiktet",
+      "fi": "%d Kasvot",
+      "nl": "%d gezicht",
+      "es": "%d cara",
+      "da": "%d ansigt"
+    }
+  },
+  "IMBFacebookParser.ThumbnailLoadError": {
+    "MDI": {
+      "de": "Vorschaubild konnte nicht geladen werden. Bitte versuchen Sie es erneut über das Kontextmenü.",
+      "en": "Could not load thumbnail. You may retry manually using contextual menu.",
+      "fr": "La miniature n'a pas pu être chargée. Veuillez réessayer manuellement via le menu contextuel.",
+      "it": "Non è possibile caricare l'immagine di anteprima. Riprova usando il menù contestuale.",
+      "sv": "Förhandsgranskningen kan ej laddas upp. Du kan pröva på nytt genom att använda valmenyn.",
+      "nb": "Forhåndsvisningen kan ikke lastes opp. Prøv pånytt ved å bruke menyen.",
+      "fi": "Esikatselukuvia ei voida ladata. Voit yrittää uudelleen käyttämällä kohdevalikkoa.",
+      "nl": "Afdrukvoorbeeld kon niet worden geladen. Probeer het opnieuw via het contextmenu.",
+      "es": "No se ha podido cargar la imagen de vista previa. Inténtelo de nuevo a través del menú contextual.",
+      "da": "Forvisningsbilledet kunne ikke indlæses. Prøv venligst igen via kontekstmenuen."
+    }
+  },
+  "IMBImageViewController.countFormatPlural": {
+    "MDI": {
+      "de": "%d Bilder",
+      "en": "%d images",
+      "fr": "%d photos",
+      "it": "%d immagini",
+      "sv": "%d bilder",
+      "nb": "%d bilder",
+      "fi": "%d kuvat",
+      "nl": "%d afbeeldingen",
+      "es": "%d imágenes",
+      "da": "%d billeder"
+    }
+  },
+  "IMBImageViewController.countFormatSingular": {
+    "MDI": {
+      "de": "%d Bild",
+      "en": "%d image",
+      "fr": "%d photo",
+      "it": "%d immagine",
+      "sv": "%d bild",
+      "nb": "%d bilder",
+      "fi": "%d kuva",
+      "nl": "%d afbeelding",
+      "es": "%d imagen",
+      "da": "%d billede"
+    }
+  },
+  "IMBImageViewController.displayName": {
+    "MDI": {
+      "de": "Bilder",
+      "en": "Images",
+      "fr": "Photos",
+      "it": "Immagini",
+      "sv": "Bilder",
+      "nb": "Bilder",
+      "fi": "Kuvat",
+      "nl": "Afbeeldingen",
+      "es": "Imágenes",
+      "da": "Fotos"
+    }
+  },
+  "IMBImageViewController.tableColumn.name": {
+    "MDI": {
+      "de": "Name",
+      "en": "Name",
+      "fr": "Nom",
+      "it": "Nome",
+      "sv": "Namn",
+      "nb": "Navn",
+      "fi": "Nimi",
+      "nl": "Naam",
+      "es": "Nombre",
+      "da": "Navn"
+    }
+  },
+  "IMBImageViewController.tableColumn.size": {
+    "MDI": {
+      "de": "Grösse",
+      "en": "Size",
+      "fr": "Taille",
+      "it": "Dimensioni",
+      "sv": "Storlek",
+      "nb": "Størrelse",
+      "fi": "Koko",
+      "nl": "Grootte",
+      "es": "Tamaño",
+      "da": "Størrelse"
+    }
+  },
+  "IMBLibraryController.groupnode.folders": {
+    "MDI": {
+      "de": "ORDNER",
+      "en": "FOLDERS",
+      "fr": "CLASSEURS",
+      "it": "CARTELLE",
+      "sv": "ALBUM",
+      "nb": "MAPPER",
+      "fi": "KANSIOT",
+      "nl": "MAPPEN",
+      "es": "CARPETAS",
+      "da": "ALBUM"
+    }
+  },
+  "IMBLibraryController.groupnode.internet": {
+    "MDI": {
+      "de": "INTERNET",
+      "en": "INTERNET",
+      "fr": "INTERNET",
+      "it": "INTERNET",
+      "sv": "INTERNET",
+      "nb": "INTERNETT",
+      "fi": "INTERNET",
+      "nl": "INTERNET",
+      "es": "INTERNET",
+      "da": "INTERNET"
+    }
+  },
+  "IMBLibraryController.groupnode.libraries": {
+    "MDI": {
+      "de": "BIBLIOTHEKEN",
+      "en": "LIBRARIES",
+      "fr": "BIBLIOTHEQUES",
+      "it": "BIBLIOTECHE",
+      "sv": "BIBLIOTEK",
+      "nb": "BIBLIOTEKER",
+      "fi": "KIRJASTOT",
+      "nl": "BIBLIOTHEKEN",
+      "es": "BIBLIOTECAS",
+      "da": "BIBLIOTEKER"
+    }
+  },
+  "IMBLibraryController.groupnode.searches": {
+    "MDI": {
+      "de": "SUCHE",
+      "en": "SEARCHES",
+      "fr": "RECHERCHE",
+      "it": "RICERCA",
+      "sv": "SÖK",
+      "nb": "SØK",
+      "fi": "HAKU",
+      "nl": "ZOEKEN",
+      "es": "BÚSQUEDAS",
+      "da": "SØGNING"
+    }
+  },
+  "IMBLightroomParser.IncompatibleCatalogVersion": {
+    "MDI": {
+      "de": "Der Katalog '%@' ist mit der Lightroom-Version %@ verbunden, hat aber die falsche Version. \\n\\nBitte versuchen Sie zunächst, den Katalog mit Lightroom %@ zu öffnen, um seine Version anzupassen. Falls erfolgreich, starten Sie ifolor Designer bitte erneut.",
+      "en": "Catalog %@ is associated with Lightroom version %@ but has an incompatible version.\\n\\nPlease try to open it with Lightroom %@ first to update it. If successful please re-start ifolor Designer.",
+      "fr": "Le catalogue '%@' est lié à la version Lightroom %@, mais sa version est incompatible. \\n\\nVeuillez d'abord essayer d'ouvrir le catalogue avec Lightroom %@ pour adapter sa version. Si cela fonctionne, veuillez redémarrer ifolor Designer.",
+      "it": "Il catalogo è collegato alla versione Lightroom %@ ma ha una versione incompatibile. \\n\\nVi preghiamo di aprire il catalogo prima con Lightroom %@ per adattare la sua versione. In caso di successo vi preghiamo di riaprire ifolor Designer.",
+      "sv": "Katalogen %@ är kopplad till Lightroom-version %@ men har fel version.\\n\\nVänligen försök öppna den med Lightroom %@ först för uppdatering. Om lyckat, vänligen starta om ifolor Designer.",
+      "nb": "Katalogen %@ er assosiert med Lightroom-versjonen %@ men har en inkompatibel versjon.\\n\\nVennligst forsøk å åpne det først med Lightroom %@ for å oppdatere det. Hvis dette er vellykket, vennligst start opp ifolor Designer på nytt.",
+      "fi": "Luettelo ”%@” liittyy Lightroomin versioon %@ ja nykyinen versio poikkeaa tästä. \\n\\nYritä ensin avata luettelo Lightroomilla %@ päivityksen suorittamiseksi. Jos tilanne korjautuu, käynnistä ifolor Designer uudelleen.",
+      "nl": "De catalogus '%@' is verbonden met de Lightroom-versie %@, maar heeft de verkeerde versie. \\n\\nProbeer eerst de catalogus met Lightroom %@ te openen om de versie ervan aan te passen. Als dit lukt, start u ifolor Designer opnieuw.",
+      "es": "El catálogo '%@' está vinculado a la versión de Lightroom %@, pero tiene la versión incorrecta. \\n\\nEn primer lugar, intente abrir el catálogo con Lightroom %@ para adaptar su versión. Si lo consigue, reinicie ifolor Designer.",
+      "da": "Kataloget '%@' er forbundet med Lightroom-version %@, men har den forkerte version. \\n\\nForsøg venligst først at åbne katalogtet med Lightroom%@ for at kunne tilpasse versionen. Hvis det lykkes, bedes du starte ifolor Designer igen."
+    }
+  },
+  "IMBLightroomParser.MustRunLightroom": {
+    "MDI": {
+      "de": "Ihre Lightroom %@ App muss gestartet sein, wenn Sie auf die Lightroom-Bibliothek zugreifen möchten. Nach dem Starten von Lightroom drücken Sie bitte \\\"Neu laden\\\" im Kontext-Menü dieser Zeile.",
+      "en": "You must run Lightroom %@ while accessing its library. Please hit \\\"Reload\\\" from the context menu of this row after you did so.",
+      "fr": "Vous devez lancer l'appli Lightroom %@ lorsque vous souhaitez accéder à sa bibliothèque. Une fois que vous l'avez démarré, veuillez appuyer sur \\\"Relancer\\\" dans le menu contextuel de cette barre.",
+      "it": "La Lightroom %@ App deve essere avviata se si desidera accedere alla galleria Lightroom. Dopo l’avvio di Lightroom, si prega di premere \\\"Ricarica\\\" nel menù contestuale di questa riga.",
+      "sv": "Din Lightroom %@ App måste vara igång om du vill ha tillgång till Lightroom-biblioteket. Efter start av Lightroom vänligen tryck på \\\"Ladda om\\\" i kontext-menyn på denna rad.",
+      "nb": "Din Lightroom %@ app skal være i gang hvis du vil ha tilgang til Lightroom-biblioteket. Etter start av Lightroom vennligst trykk \\\"Last på nytt\\\" i kontekst-menyen på denne rad.",
+      "fi": "Lightroom %@ App on käynnistettävä, jos haluatte käyttää Lightroom-kirjastoa. Lightroomin käynnistämisen jälkeen täytyy painaa \\\"päivittäminen\\\" tämän rivin kontekstivalikossa.",
+      "nl": "De app Lightroom %@ moet gestart zijn als u toegang wilt krijgen tot de Lightroom-bibliotheek. Druk na het opstarten van Lightroom a.u.b. op \\\"Opnieuw laden\\\" in het contextmenu van deze regel.",
+      "es": "Debe tener su aplicación Lightroom %@ iniciada para acceder a la biblioteca de Lightroom. Después de iniciar Lightroom, pulse \\\"Volver a cargar\\\" en el menú contextual de esta fila.",
+      "da": "Lightroom %@ appen skal være startet, hvis du vil have adgang til dens bibliotek. Tryk venligst på \\\"Genindlæs\\\" fra kontekst-menuen i denne række, når du har gjort det."
+    }
+  },
+  "IMBLightroomParser.Unnamed": {
+    "MDI": {
+      "de": "Unbenannt",
+      "en": "Unnamed",
+      "fr": "Sans titre",
+      "it": "Senza nome",
+      "sv": "Namnlös",
+      "nb": "Uten navn",
+      "fi": "Nimetön",
+      "nl": "Naamloos",
+      "es": "Sin nombre",
+      "da": "Unavngiven"
+    }
+  },
+  "IMBLightroomParser.collectionsName": {
+    "MDI": {
+      "de": "Sammlungen",
+      "en": "Collections",
+      "fr": "Collections",
+      "it": "Raccolte",
+      "sv": "Samlingar",
+      "nb": "Samlinger",
+      "fi": "Kokoelmat",
+      "nl": "Collecties",
+      "es": "Colecciones",
+      "da": "Samlinger"
+    }
+  },
+  "IMBLightroomParser.foldersName": {
+    "MDI": {
+      "de": "Ordner",
+      "en": "Folders",
+      "fr": "Dossiers",
+      "it": "Cartelle",
+      "sv": "Album",
+      "nb": "Mapper",
+      "fi": "Kansiot",
+      "nl": "Mappen",
+      "es": "Carpetas",
+      "da": "Mapper"
+    }
+  },
+  "IMBLocalObjectsPromise.error": {
+    "MDI": {
+      "de": "Die Datei %@ konnte nicht geladen werden (Datei nicht gefunden)",
+      "en": "The media file %@ could not be loaded (file not found)",
+      "fr": "Impossible de charger le fichier %@ (fichier introuvable)",
+      "it": "Impossibile caricare il file %@ (file non trovato)",
+      "sv": "Filen %@ gick inte att hämta (filen saknas)",
+      "nb": "Filen %@ kunne ikke lastes (filen ble ikke funnet)",
+      "fi": "Mediatiedostoa %@ ei voitu ladata (tiedostoa ei löydy)",
+      "nl": "Het mediabestand %@ kon niet geladen worden (bestand niet gevonden)",
+      "es": "No se ha podido cargar el archivo multimedia %@ (archivo no encontrado)",
+      "da": "Mediefilen% @ kunne ikke indlæses (filen blev ikke fundet)"
+    }
+  },
+  "IMBNodeViewController.menuItem.add": {
+    "MDI": {
+      "de": "Hinzufügen…",
+      "en": "Add…",
+      "fr": "Ajouter…",
+      "it": "Aggiungi…",
+      "sv": "Lägg till…",
+      "nb": "Legg til…",
+      "fi": "Lisää…",
+      "nl": "Voeg toe…",
+      "es": "Añadir…",
+      "da": "Tilføje…"
+    }
+  },
+  "IMBNodeViewController.menuItem.reload": {
+    "MDI": {
+      "de": "Erneut laden",
+      "en": "Reload",
+      "fr": "Recharger",
+      "it": "Ricarica",
+      "sv": "Ladda upp på nytt",
+      "nb": "Last opp pånytt",
+      "fi": "Lataa uudelleen",
+      "nl": "Opnieuw laden",
+      "es": "Volver a cargar",
+      "da": "Genindlæs"
+    }
+  },
+  "IMBNodeViewController.menuItem.remove": {
+    "MDI": {
+      "de": "Entfernen",
+      "en": "Remove",
+      "fr": "Supprimer",
+      "it": "Rimuovi",
+      "sv": "Ta bort",
+      "nb": "Fjern",
+      "fi": "Poista",
+      "nl": "Verwijder",
+      "es": "Eliminar",
+      "da": "Fjerne"
+    }
+  },
+  "IMBObject.untitled": {
+    "MDI": {
+      "de": "Unbenannt",
+      "en": "untitled",
+      "fr": "Sans titre",
+      "it": "Senza nome",
+      "sv": "Namnlös",
+      "nb": "Uten navn",
+      "fi": "Nimetön",
+      "nl": "naamloos",
+      "es": "sin título",
+      "da": "unavngiven"
+    }
+  },
+  "IMBObjectViewController.menuItem.download": {
+    "MDI": {
+      "de": "Download",
+      "en": "Download",
+      "fr": "Télécharger",
+      "it": "Download",
+      "sv": "Hämta",
+      "nb": "Last ned",
+      "fi": "Lataa",
+      "nl": "Download",
+      "es": "Descargar",
+      "da": "Hent"
+    }
+  },
+  "IMBObjectViewController.menuItem.open": {
+    "MDI": {
+      "de": "Öffnen",
+      "en": "Open",
+      "fr": "Ouvrir",
+      "it": "Apri",
+      "sv": "Öppna",
+      "nb": "Åpne",
+      "fi": "Avaa",
+      "nl": "Open",
+      "es": "Abrir",
+      "da": "Åben"
+    }
+  },
+  "IMBObjectViewController.menuItem.openInBrowser": {
+    "MDI": {
+      "de": "Im Browser laden",
+      "en": "Open With Browser",
+      "fr": "Ouvrir dans le navigateur",
+      "it": "Apri con il browser",
+      "sv": "Öppna i webbläsaren",
+      "nb": "Åpne med nettleser",
+      "fi": "Avaa selaimessa",
+      "nl": "Open in browser",
+      "es": "Abrir en el navegador",
+      "da": "Åbn med browser"
+    }
+  },
+  "IMBObjectViewController.menuItem.openPreviewInApp.Lightroom": {
+    "MDI": {
+      "de": "Bearbeitetes Bild in %@ öffnen",
+      "en": "Open Processed Image in %@",
+      "fr": "Ouvrir la photo éditée dans %@",
+      "it": "Apri immagine modificata in %@",
+      "sv": "Öppna bearbetad bild i %@",
+      "nb": "Åpne bearbeidet bilde i %@",
+      "fi": "Avaa käsitelty kuva %@",
+      "nl": "Open bewerkte afbeelding in %@",
+      "es": "Abrir imagen procesada en %@",
+      "da": "Åbn redigeret billede i% @"
+    }
+  },
+  "IMBObjectViewController.menuItem.openWithApp": {
+    "MDI": {
+      "de": "Mit %@ öffnen",
+      "en": "Open With %@",
+      "fr": "Ouvrir avec %@",
+      "it": "Apri con %@",
+      "sv": "Öppna med %@",
+      "nb": "Åpne med %@",
+      "fi": "Avaa %@",
+      "nl": "Open met %@",
+      "es": "Abrir imagen maestra con %@",
+      "da": "Åbn med% @"
+    }
+  },
+  "IMBObjectViewController.menuItem.openWithApp.Lightroom": {
+    "MDI": {
+      "de": "Originalbild mit %@ öffnen",
+      "en": "Open Master Image With %@",
+      "fr": "Ouvrir la photo originale avec %@",
+      "it": "Apri immagine originale con %@",
+      "sv": "Öppna originalbilden med %@",
+      "nb": "Åpne originalbildet med %@",
+      "fi": "Avaa alkuperäinen kuva %@",
+      "nl": "Open originele afbeelding met %@",
+      "es": "Abrir con %@",
+      "da": "Åbn det oprindelige billede med% @"
+    }
+  },
+  "IMBObjectViewController.menuItem.openWithFinder": {
+    "MDI": {
+      "de": "Mit Finder öffnen",
+      "en": "Open with Finder",
+      "fr": "Ouvrir avec Finder",
+      "it": "Apri con Finder",
+      "sv": "Öppna i Finder",
+      "nb": "Åpne med Finder",
+      "fi": "Avaa Finderissa",
+      "nl": "Open met Finder",
+      "es": "Abrir con el Finder",
+      "da": "Åbn med Finder"
+    }
+  },
+  "IMBObjectViewController.menuItem.openWithFinder.Lightroom": {
+    "MDI": {
+      "de": "Originalbild mit Finder öffnen",
+      "en": "Open Master Image with Finder",
+      "fr": "Ouvrir la photo originale avec Finder",
+      "it": "Apri immagine originale con Finder",
+      "sv": "Öppna originalbilden i Finder",
+      "nb": "Åpne originalbildet med Finder",
+      "fi": "Avaa alkuperäinen kuva Finderissa",
+      "nl": "Open originele afbeelding met Finder",
+      "es": "Abrir imagen maestra con el Finder",
+      "da": "Åbn originalt billede med Finder"
+    }
+  },
+  "IMBObjectViewController.menuItem.quickLook": {
+    "MDI": {
+      "de": "Quick Look",
+      "en": "Quick Look",
+      "fr": "Quick Look",
+      "it": "Quick Look",
+      "sv": "Quick Look",
+      "nb": "Quick Look",
+      "fi": "Quick Look",
+      "nl": "Geef snel weer",
+      "es": "Vista rápida",
+      "da": "Quick Look"
+    }
+  },
+  "IMBObjectViewController.menuItem.reload": {
+    "MDI": {
+      "de": "Erneut laden",
+      "en": "Reload",
+      "fr": "Recharger",
+      "it": "Ricarica",
+      "sv": "Ladda upp på nytt",
+      "nb": "Last opp pånytt",
+      "fi": "Lataa uudelleen",
+      "nl": "Opnieuw laden",
+      "es": "Volver a cargar",
+      "da": "reload"
+    }
+  },
+  "IMBObjectViewController.menuItem.revealInFinder": {
+    "MDI": {
+      "de": "Im Finder zeigen",
+      "en": "Reveal in Finder",
+      "fr": "Afficher dans Finder",
+      "it": "Mostra in Finder",
+      "sv": "Visa i Finder",
+      "nb": "Vis i Finder",
+      "fi": "Näytä Finderissa",
+      "nl": "Laat in Finder zien",
+      "es": "Mostrar en Finder",
+      "da": "Vis i Finder"
+    }
+  },
+  "IMBObjectViewController.menuItem.revealInFinder.Lightroom": {
+    "MDI": {
+      "de": "Originalbild im Finder zeigen",
+      "en": "Reveal Master Image in Finder",
+      "fr": "Afficher la photo originale dans Finder",
+      "it": "Mostra immagine originale in Finder",
+      "sv": "Visa originalbilden i Finder",
+      "nb": "Vis originalbildet i Finder",
+      "fi": "Näytä alkuperäinen kuva Finderissa",
+      "nl": "Laat originele afbeelding in Finder zien",
+      "es": "Mostrar imagen maestra en Finder",
+      "da": "Vis det originale billede i Finder"
+    }
+  },
+  "IMBObjectViewController.menuItem.showAll": {
+    "MDI": {
+      "de": "Alle anzeigen",
+      "en": "Show all",
+      "fr": "Tout afficher",
+      "it": "Mostra tutto",
+      "sv": "Visa alla",
+      "nb": "Vis alle",
+      "fi": "Näytä kaikki",
+      "nl": "Alle weergeven",
+      "es": "Mostrar todo",
+      "da": "Vis alle"
+    }
+  },
+  "IMBObjectViewController.menuItem.showBadgedOnly": {
+    "MDI": {
+      "de": "Nur verwendete anzeigen",
+      "en": "Only show those used",
+      "fr": "Afficher ce qui est utilisé seulement",
+      "it": "Visualizza solo utilizzate",
+      "sv": "Visa enbart de som används",
+      "nb": "Vis kun brukte",
+      "fi": "Näytä vain käytetyt",
+      "nl": "Alleen gebruikte weergeven",
+      "es": "Mostrar con indicador solamente",
+      "da": "Displayet er kun brugt"
+    }
+  },
+  "IMBObjectViewController.menuItem.showUnbadgedOnly": {
+    "MDI": {
+      "de": "Nur nicht verwendete anzeigen",
+      "en": "Only show those not used",
+      "fr": "Afficher ce qui n'est pas utilisé seulement",
+      "it": "Visualizza solo non utilizzate",
+      "sv": "Visa enbart de som inte används",
+      "nb": "Vis kun ubrukte",
+      "fi": "Näytä vain käyttämättömät",
+      "nl": "Alleen niet-gebruikte weergeven",
+      "es": "Mostrar sin indicador solamente",
+      "da": "Vis kun ubrugt"
+    }
+  },
+  "IMBObjectViewController.progress.message.preparing": {
+    "MDI": {
+      "de": "Vorbereiten…",
+      "en": "Preparing…",
+      "fr": "Préparation…",
+      "it": "In preparazione…",
+      "sv": "Preparerar…",
+      "nb": "Forbereder…",
+      "fi": "Valmistellaan…",
+      "nl": "Voorbereiden…",
+      "es": "Preparando…",
+      "da": "Forbereder ..."
+    }
+  },
+  "IMBObjectViewController.progress.title": {
+    "MDI": {
+      "de": "Mediendateien herunteladen",
+      "en": "Downloading Media Files",
+      "fr": "Télécharger fichiers médias",
+      "it": "Scarica file mediali",
+      "sv": "Hämta mediefiler",
+      "nb": "Last ned mediefiler",
+      "fi": "Lataa mediatiedostoja",
+      "nl": "Downloaden media bestanden",
+      "es": "Descargando archivos multimedia",
+      "da": "Mediefiler"
+    }
+  },
+  "IMBObjectViewController.thumbnail.loading": {
+    "MDI": {
+      "de": "Lade...",
+      "en": "Loading...",
+      "fr": "Chargement...",
+      "it": "Caricamento…",
+      "sv": "Laddar upp…",
+      "nb": "Laster opp....",
+      "fi": "Ladataan…",
+      "nl": "Bezig met laden…",
+      "es": "Cargando…",
+      "da": "Indlæser ..."
+    }
+  },
+  "IMBOutlineView.draggingPrompt": {
+    "MDI": {
+      "de": "Weitere Ordner hierher ziehen",
+      "en": "Drag additional folders here",
+      "fr": "Déplacer des dossiers supplémentaires ici",
+      "it": "Trascina qui altre cartelle",
+      "sv": "Dra hit fler album",
+      "nb": "Dra flere mapper hit",
+      "fi": "Vedä lisäkansiot tähän",
+      "nl": "Trek aanvullende mappen hier",
+      "es": "Arrastrar carpetas adicionales hasta aquí",
+      "da": "Træk flere mapper her"
+    }
+  },
+  "IMBSkimmableObjectViewController.countFormatPlural": {
+    "MDI": {
+      "de": "%d Objekte",
+      "en": "%d objects",
+      "fr": "%d objets",
+      "it": "%d oggetti",
+      "sv": "%d objekt",
+      "nb": "%d objekter",
+      "fi": "%d objektia",
+      "nl": "%d objecten",
+      "es": "%d objetos",
+      "da": "%d Objekter"
+    }
+  },
+  "IMBSkimmableObjectViewController.countFormatSingular": {
+    "MDI": {
+      "de": "%d Objekt",
+      "en": "%d object",
+      "fr": "%d objet",
+      "it": "%d oggetto",
+      "sv": "%d objekt",
+      "nb": "%d objekt",
+      "fi": "%d objekti",
+      "nl": "%d object",
+      "es": "%d objeto",
+      "da": "%d Objekt"
+    }
+  },
+  "IMBiPhotoEventObjectViewController.countFormatPlural": {
+    "MDI": {
+      "de": "%d Ereignisse",
+      "en": "%d events",
+      "fr": "%d Événements",
+      "it": "%d Eventi",
+      "sv": "%d Händelser",
+      "nb": "%d Hendelser",
+      "fi": "%d Tapahtumat",
+      "nl": "%d gebeurtenissen",
+      "es": "%d eventos",
+      "da": "%d Ereignisse"
+    }
+  },
+  "IMBiPhotoEventObjectViewController.countFormatSingular": {
+    "MDI": {
+      "de": "%d Ereignis",
+      "en": "%d event",
+      "fr": "%d Événement",
+      "it": "%d Evento",
+      "sv": "%d Händelse",
+      "nb": "%d Hendelse",
+      "fi": "%d Tapahtuma",
+      "nl": "%d gebeurtenis",
+      "es": "%d evento",
+      "da": "%d Begivenheder"
+    }
+  }
+}
