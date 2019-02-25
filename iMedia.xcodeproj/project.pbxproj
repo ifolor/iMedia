@@ -3690,6 +3690,10 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				OTHER_CFLAGS = (
+					"-Xanalyzer",
+					"-analyzer-disable-all-checks",
+				);
 				SYMROOT = "";
 			};
 			name = Debug;
@@ -3705,6 +3709,10 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_OPTIMIZATION_LEVEL = s;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				OTHER_CFLAGS = (
+					"-Xanalyzer",
+					"-analyzer-disable-all-checks",
+				);
 				SYMROOT = "";
 			};
 			name = Release;
